@@ -28,7 +28,7 @@ Once you have cloned this repo, you can run the program from your computer's com
 
 `py tip_calculator.py`
 
-**NOTE**: *your computer may use a different command to run python code. If the above line of code doesn't run properly, try replacing the "py" at the start with either "python" or "python3"***as shown below**.
+**NOTE**: *your computer may use a different command to run python code. If the above line of code doesn't run properly, try replacing the "py" at the start with either "python" or "python3"*. (**as shown below**)
 
 `python tip_calculator.py`
 
